@@ -1,3 +1,6 @@
+THIS IS A MIRROR OF JELLY'S REPO
+
+
 ![Project icon](https://git-assets.jellysquid.me/hotlink-ok/sodium/icon-rounded-128px.png)
 
 # Sodium (for Fabric)
